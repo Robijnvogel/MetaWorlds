@@ -1,0 +1,16 @@
+[
+    {
+        "modid": "MetaWorlds",
+        "name": "MetaWorlds for Forge",
+        "description": "A Mod for Minecraft that enables the user to position extra worlds inside other worlds, possibly transposed, scaled and/or rotated. This is the forge based version. Uses JBLAS (http://jblas.org/).",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291311",
+        "updateUrl": "",
+        "authorList": [ "MMM_MasterM", "Robijnvogel" ],
+        "credits": "MMM_MasterM, 2013-2014",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": []
+    }
+]

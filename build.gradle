@@ -21,12 +21,12 @@ buildscript {
 
 apply plugin: 'forge'
 
-ext.modversion = "experimental"
+ext.modversion = "1.5-a0"
 ext.mcversion = "1.7.10"
 ext.forgeversion = "10.13.4.1614"
 version = mcversion + "-" + modversion
-group = "robin.metaworlds"
-archivesBaseName = "Metaworlds"
+group = "metaworlds"
+archivesBaseName = "MetaWorlds"
 
 minecraft {
     version = mcversion + "-" + forgeversion + "-" + mcversion
